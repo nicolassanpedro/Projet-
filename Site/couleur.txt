@@ -1,0 +1,3 @@
+jaune: #FFF240
+rouge: #E84027
+bleu: #5B4FFF
